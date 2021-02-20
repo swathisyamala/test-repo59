@@ -1,4 +1,11 @@
 class hello()
-	public void main()
 {
+	public void main()
+
+{
+
+system.out.println("swathi")
+
 }
+}
+
