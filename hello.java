@@ -1,11 +1,8 @@
 class hello()
 {
-	public void main()
+	public static void main()
+	{
+		sysyem.out("bhavani")
+	}}
 
-{
-
-system.out.println("swathi")
-
-}
-}
 
